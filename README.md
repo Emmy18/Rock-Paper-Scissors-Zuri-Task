@@ -2,11 +2,6 @@
 
 Task Title: Creating and Using [Local] Python Packages
 
-    Part Time
-    Backend - Python
-
-Created 30-05-2022 12:30:54
-
 Guidelines for Submission:
 
     Push your solution to a public GitHub repository using Git CLI
